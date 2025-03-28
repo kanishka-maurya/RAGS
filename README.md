@@ -1,0 +1,2 @@
+# RAGS
+Retrieval Augmented Generation
