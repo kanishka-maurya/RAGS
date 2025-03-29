@@ -1,0 +1,12 @@
+langchain_community
+tiktoken
+langchain_groq
+langchain_core
+bs4
+langsith
+langchain_nomic
+langchainhub
+chromadb
+ollama
+langchain
+python-dotenv
